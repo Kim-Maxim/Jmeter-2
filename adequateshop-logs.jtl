@@ -1,0 +1,32 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1694716546259,584,User Login,200,OK,User Login 1-1,text,true,,407,287,1,1,http://restapi.adequateshop.com/api/authaccount/login,578,0,266
+1694716547009,544,Get user by id,200,OK,Get user by id 2-1,text,true,,451,204,6,6,http://restapi.adequateshop.com/api/users/12301,544,0,236
+1694716547093,562,Get user by id,200,OK,Get user by id 2-2,text,true,,449,204,6,6,http://restapi.adequateshop.com/api/users/12302,562,0,262
+1694716547186,573,Get user by id,200,OK,Get user by id 2-3,text,true,,451,204,6,6,http://restapi.adequateshop.com/api/users/12303,573,0,271
+1694716547296,463,Get user by id,200,OK,Get user by id 2-4,text,true,,450,204,6,6,http://restapi.adequateshop.com/api/users/12304,463,0,256
+1694716547389,471,Get user by id,200,OK,Get user by id 2-5,text,true,,450,204,5,5,http://restapi.adequateshop.com/api/users/12305,471,0,266
+1694716547483,480,Get user by id,200,OK,Get user by id 2-6,text,true,,452,204,5,5,http://restapi.adequateshop.com/api/users/12306,480,0,275
+1694716547593,473,Get user by id,200,OK,Get user by id 2-7,text,true,,457,204,4,4,http://restapi.adequateshop.com/api/users/12307,473,0,267
+1694716547687,481,Get user by id,200,OK,Get user by id 2-8,text,true,,456,204,3,3,http://restapi.adequateshop.com/api/users/12308,480,0,275
+1694716547796,475,Get user by id,200,OK,Get user by id 2-9,text,true,,454,204,2,2,http://restapi.adequateshop.com/api/users/12309,475,0,270
+1694716547889,587,Get user by id,200,OK,Get user by id 2-10,text,true,,457,204,1,1,http://restapi.adequateshop.com/api/users/12310,587,0,285
+1694716548487,502,Get All Users,200,OK,Get All Users 3-1,text,true,,2245,205,6,6,http://restapi.adequateshop.com/api/users?page=1,502,0,201
+1694716548689,507,Get All Users,200,OK,Get All Users 3-3,text,true,,2245,205,7,7,http://restapi.adequateshop.com/api/users?page=1,507,0,202
+1694716548593,603,Get All Users,200,OK,Get All Users 3-2,text,true,,2245,205,7,7,http://restapi.adequateshop.com/api/users?page=1,603,0,289
+1694716548873,432,Get All Users,200,OK,Get All Users 3-5,text,true,,2245,205,6,6,http://restapi.adequateshop.com/api/users?page=1,432,0,214
+1694716548785,536,Get All Users,200,OK,Get All Users 3-4,text,true,,2245,205,5,5,http://restapi.adequateshop.com/api/users?page=1,536,0,302
+1694716548973,442,Get All Users,200,OK,Get All Users 3-6,text,true,,2245,205,5,5,http://restapi.adequateshop.com/api/users?page=1,442,0,222
+1694716549074,450,Get All Users,200,OK,Get All Users 3-7,text,true,,2245,205,4,4,http://restapi.adequateshop.com/api/users?page=1,450,0,217
+1694716549171,537,Get All Users,200,OK,Get All Users 3-8,text,true,,2245,205,3,3,http://restapi.adequateshop.com/api/users?page=1,537,0,223
+1694716549269,460,Get All Users,200,OK,Get All Users 3-9,text,true,,2245,205,2,2,http://restapi.adequateshop.com/api/users?page=1,460,0,228
+1694716549370,646,Get All Users,200,OK,Get All Users 3-10,text,true,,2245,205,1,1,http://restapi.adequateshop.com/api/users?page=1,646,0,338
+1694716550221,509,Create User Object,201,Created,Create User Object 4-3,text,true,,546,346,7,7,http://restapi.adequateshop.com/api/users/,509,0,213
+1694716550127,603,Create User Object,201,Created,Create User Object 4-2,text,true,,546,346,7,7,http://restapi.adequateshop.com/api/users/,603,0,303
+1694716550022,708,Create User Object,201,Created,Create User Object 4-1,text,true,,546,346,7,7,http://restapi.adequateshop.com/api/users/,708,0,396
+1694716550330,538,Create User Object,201,Created,Create User Object 4-4,text,true,,546,346,6,6,http://restapi.adequateshop.com/api/users/,538,0,293
+1694716550533,512,Create User Object,201,Created,Create User Object 4-6,text,true,,546,346,6,6,http://restapi.adequateshop.com/api/users/,512,0,296
+1694716550627,474,Create User Object,201,Created,Create User Object 4-7,text,true,,545,346,5,5,http://restapi.adequateshop.com/api/users/,474,0,240
+1694716550846,411,Create User Object,201,Created,Create User Object 4-9,text,true,,546,346,4,4,http://restapi.adequateshop.com/api/users/,411,0,204
+1694716550736,542,Create User Object,201,Created,Create User Object 4-8,text,true,,546,346,3,3,http://restapi.adequateshop.com/api/users/,542,0,308
+1694716550940,517,Create User Object,201,Created,Create User Object 4-10,text,true,,546,346,2,2,http://restapi.adequateshop.com/api/users/,517,0,288
+1694716550424,9623,Create User Object,201,Created,Create User Object 4-5,text,true,,546,346,1,1,http://restapi.adequateshop.com/api/users/,9623,0,9316
